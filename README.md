@@ -60,7 +60,15 @@ Full Stack Developer with a strong foundation in Java and backend development us
 - Developed a responsive business-oriented web platform
 - Focused on UI/UX, performance, and structured service presentation
 - Simulates a production-ready software solutions website  
-- Live: https://ojas-gangwar-wo9a4o8.gamma.site/
+- 🔗 Live: https://ojas-gangwar-wo9a4o8.gamma.site/
+
+---
+
+### Tourism Web Portal
+- Developed a responsive tourism website with modern UI design
+- Focused on user experience and structured travel content presentation
+- Built using HTML, CSS, and JavaScript
+- 🔗 Live: https://tourismwebpage.vercel.app/
 
 ---
 
