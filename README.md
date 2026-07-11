@@ -1,5 +1,5 @@
 <h1 align="center">Ojas Gangwar</h1>
-<h3 align="center">Full Stack Developer | Spring Boot | Java | Web Technologies</h3>
+<h3 align="center">Full Stack Developer | Spring Boot | Java | Web Technologies |Python</h3>
 
 <p align="center">
   <a href="https://ojas-gangwar-wo9a4o8.gamma.site/">
