@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/ojas-gangwar-841b4125a">
     <img src="https://img.shields.io/badge/LinkedIn-Ojas%20Gangwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+   <a href="https://leetcode.com/u/OjasGangwar/">
+    <img src="https://img.shields.io/badge/Leetcode-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
